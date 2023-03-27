@@ -1,5 +1,5 @@
 # Data Driven Workflow
-Automated tests framework to ensure a Data Driven Workflow scenario using [Pytes](https://docs.pytest.org/en/7.2.x/)
+Automated tests framework to ensure a Data Driven Workflow scenario using [Pytest](https://docs.pytest.org/en/7.2.x/)
 
 ## Prerequisites
 
