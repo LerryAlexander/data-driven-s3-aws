@@ -1,0 +1,6 @@
+.aws.env
+*.html
+assets/
+reports/
+.vscode
+.pytest_cache

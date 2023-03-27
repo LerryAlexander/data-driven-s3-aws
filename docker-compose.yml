@@ -1,0 +1,14 @@
+version: "3"
+services:
+  test_data_driven:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./data:/app/data
+      - ./tests:/app/tests
+      - ./src:/app/src
+      - ./reports:/app/reports
+    env_file:
+      - ./.aws.env
+    command: pytest -v -s --html=/app/reports/report.html
