@@ -5,7 +5,8 @@ Automated tests framework to ensure a Data Driven Workflow scenario using [Pytes
 
 * Install [Docker](https://docs.docker.com/get-docker/) according to your OS
 
-* Clone this repo `git clone`
+* Clone this repo `git clone https://github.com/LerryAlexander/earth-daily-home-test.git` 
+* Go to the root folder: `cd earth-daily-home-test/`
 
 ## Usage
 
