@@ -29,6 +29,7 @@ The following are the different test cases considered in the testing framework:
 * Test case to verify that the end-user can download the catalog and product files from the system.
 * Test case to verify that the system can handle failures during processing.
 * Test case to verify that the whole process is completed within 3 minutes.
+* Test case to verify that the data files are successfully deleted from AWS S3 bucket.
 
 Other test cases that can be considered for automation:
 
