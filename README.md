@@ -1,4 +1,4 @@
-# Data Driven Workflow
+# Data Driven Workflow with AWS S3 Buckets
 Automated tests framework to ensure a Data Driven Workflow scenario using [Pytest](https://docs.pytest.org/en/7.2.x/)
 
 ## Prerequisites
