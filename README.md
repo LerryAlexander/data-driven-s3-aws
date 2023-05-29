@@ -13,8 +13,8 @@ The end user can successfully download the catalog and product files from the sy
 
 * Install [Docker](https://docs.docker.com/get-docker/) according to your OS
 
-* Clone this repo `git clone https://github.com/LerryAlexander/earth-daily-home-test.git` 
-* Go to the root folder: `cd earth-daily-home-test/`
+* Clone this repo `git clone https://github.com/LerryAlexander/data-driven-s3-aws.git` 
+* Go to the root folder: `cd data-driven-s3-aws/`
 
 ## Usage
 
